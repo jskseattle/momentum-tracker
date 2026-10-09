@@ -1,0 +1,5 @@
+momentum_*.csv
+momentum_*.html
+momentum_*.json
+__pycache__/
+*.pyc
